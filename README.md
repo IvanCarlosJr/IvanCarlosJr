@@ -2,10 +2,12 @@
 
 ## **Sobre mim:**
 
-- Sou mentorado de desenvolvimento **Front-end** na <a href="https://www.saibro.tech/">SaibroTech</a>
+- Analista de Projetos e Desenvolvedor de ChatBots na <a href="https://cosmobots.io/">CosmoBots</a>
+- Mentorado de desenvolvimento **Front-end** na <a href="https://www.saibro.tech/">SaibroTech</a>
 - Desenvolvedor Front-end Junior no projeto Portal de Mentorias na <a href="https://www.soujunior.tech">SouJunior</a> 
 - Possuo Certificado Profissional de Suporte em TI pela <a href="https://jabrasil.org.br/mundodepossibilidades">JA Brasil</a>
 - Atualmente estou realizando o <a href="https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/">Curso de React.Js e Next.Js (Intermediário e Avançado)</a>
+- Cursando Análise e Desenvolvimento de Sistemas pela <a href="https://estacio.br/">Estácio</a>
 
 ## **Habilidades:**
 **Linguagens:**
